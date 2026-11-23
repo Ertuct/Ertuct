@@ -15,7 +15,7 @@ Currently running turnkey greenhouse projects at **Likya Greenhouse Solution**, 
 - 🌐 **[celaltopcu.com](https://celaltopcu.com)** — Personal portfolio and technical writings (CFD analysis, aerodynamic datasets for wind turbines, load cell calibration, automated DWG takeoffs).
 - 🏭 **[FORGEA](https://forgea.celaltopcu.com)** — Lightweight ERP/MES engineered for sheet metal and structural steel manufacturing (DWG takeoff parsing, sheet nesting, schedule tracking, inventory, and site equipment/services).
 - ⚙️ **[UTM (Universal Testing Machine)](https://github.com/Ertuct/UTM)** — Modular, affordable testing machine built from scratch for small-scale material characterization. Python GUI + Arduino Mega firmware.
-- 📱 **OptiCut** — Mobile laser cutting parameter calculation and cost estimation utility for shop-floor operators.
+- 📱 **FabriQ &amp; FabriQ Nest** — Offline mobile manufacturing suite for CNC machining, fiber laser cutting parameters, and 2D sheet nesting. Built for international reach with support for 8 languages.
 
 ---
 
